@@ -32,16 +32,21 @@
 - **Kotlin**
 - **React**
 
+---
 ### 🧩 Backend & Frameworks
 - **Node.js & Express.js**  
 - **.NET (C# environment)**  
 - **REST API Development**  
 - **Middleware & JWT Authentication**
 
+---
+
 ### 🗄️ Databases
 - **MongoDB & Mongoose**
 - **Mysql**
-- Aggregation pipelines & Schema design  
+- Aggregation pipelines & Schema design
+  
+---
 
 ### ⚙️ Software Engineering Concepts
 - Distributed Systems Basics & Concurrency  
@@ -53,6 +58,22 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+🔥 **Streak Stats**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovehiku&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+📈 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lovehiku&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+🧠 **Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovehiku&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
+</p>
 
 
 ---
