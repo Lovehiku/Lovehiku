@@ -23,41 +23,81 @@ Full-Stack Developer | Node.js • Express.js • TypeScript • Go • C# | Sof
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 🚀 Programming Languages
-- JavaScript (ES6+)  
-- TypeScript  
-- Go (Golang)  
-- C#  
-- HTML & CSS (for basic front-end)
+**JavaScript**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/90/?title=JavaScript&color=2AA889" alt="JavaScript" />
+</p>
+
+**TypeScript**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/85/?title=TypeScript&color=2AA889" alt="TypeScript" />
+</p>
+
+**Go (Golang)**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/80/?title=Go&color=2AA889" alt="Go" />
+</p>
+
+**C#**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/75/?title=C%23&color=2AA889" alt="C#" />
+</p>
+
+**HTML & CSS**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/70/?title=HTML%2FCSS&color=2AA889" alt="HTML & CSS" />
+</p>
 
 ### 🧩 Backend & Frameworks
-- Node.js  
-- Express.js  
-- .NET (C# environment)  
-- REST API Development  
-- Middleware design  
-- JWT Authentication & Authorization  
+**Node.js & Express**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/90/?title=Node.js&color=2AA889" alt="Node.js" />
+</p>
+
+**.NET (C#)**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/75/?title=.NET&color=2AA889" alt=".NET" />
+</p>
+
+**REST API Development**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/85/?title=REST+API&color=2AA889" alt="REST API" />
+</p>
+
+**JWT Authentication & Middleware**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/80/?title=Auth+%26+Middleware&color=2AA889" alt="Auth & Middleware" />
+</p>
 
 ### 🗄️ Databases
-- MongoDB  
-- Mongoose  
-- Aggregation pipelines  
-- Schema design  
+**MongoDB & Mongoose**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/85/?title=MongoDB&color=2AA889" alt="MongoDB" />
+</p>
+
+**Aggregation & Schema Design**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/75/?title=Aggregation+%26+Schema&color=2AA889" alt="Aggregation & Schema" />
+</p>
 
 ### ⚙️ Software Engineering Concepts
-- Distributed Systems Basics  
-- Concurrency  
-- System Design Fundamentals  
-- Clean Architecture  
-- Version Control (Git & GitHub)  
+**Distributed Systems & Concurrency**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/80/?title=Distributed+Systems&color=2AA889" alt="Distributed Systems" />
+</p>
 
-### 🧰 Tools
-- Postman  
-- VS Code  
-- NPM  
-- Linux Basics  
+**System Design & Clean Architecture**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/75/?title=System+Design&color=2AA889" alt="System Design" />
+</p>
+
+**Version Control (Git & GitHub)**  
+<p align="left"> 
+  <img src="https://progress-bar.dev/90/?title=Git&color=2AA889" alt="Git" />
+</p>
 
 ---
 
@@ -103,5 +143,3 @@ If you want collaboration or to build impactful projects, feel free to reach out
 - 🐙 GitHub: [Hiku](https://github.com/YOUR_USERNAME)  
 - 🔗 LinkedIn: [Hiku LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
 - 💬 Telegram: [@YourTelegram](https://t.me/YOUR_TELEGRAM)
-
----
