@@ -1,91 +1,73 @@
-🕌 Assalamu Alaikum, I’m Hiku
-Fourth-Year Software Engineering Student | Full-Stack Developer (MongoDB • Express • Node.js) | Tech-Driven, Faith-Guided & Football Lover ⚽
-<!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Node.js+%2F+Express+%2F+MongoDB);Software+Engineering+Student+-+AAU;Building+Scalable+%26+Purposeful+Systems;Tech+Driven+%7C+Faith+Guided+🌙" /> </p>
-📌 About Me
+🌙 Assalamu Alaikum, I’m Hiku
+Full-Stack Developer | Node.js • Express.js • TypeScript • Go • C# | Software Engineering Student (4th Year)
+<!-- Typing animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2AA889&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(Node.js%2C+Express%2C+MongoDB);Go+%26+C%23+Developer;TypeScript+Enthusiast;Software+Engineering+Student+-+AAU;Building+Scalable+%26+Purposeful+Systems;Tech+Driven+%7C+Faith+Guided+🌙" /> </p>
+🌟 About Me
 
 🎓 4th-year Software Engineering student at Addis Ababa University
 
-💻 Full-Stack JavaScript Developer
+💻 Passionate Full-Stack Developer
 
-🌍 Interested in distributed systems, backend architecture & scalable applications
+🌍 Focused on backend engineering, concurrency, and scalable systems
 
 ⚽ Football lover
 
-🌙 I value clean code, purposeful technology, and work that aligns with good ethics
+🌙 I aim to build software that is useful, ethical, and purposeful
 
-🛠️ Tech Stack & Skills
+🛠️ Tech Stack
+🚀 Programming Languages
 
-Full-Stack Development
+JavaScript (ES6+)
 
-⚙️ Backend & Systems
+TypeScript
 
 Go (Golang)
 
 C#
 
-REST API development
+HTML & CSS (for basic front-end)
 
-Authentication & Authorization (JWT)
+🧩 Backend & Frameworks
 
-Concurrency basics
+Node.js
 
-Distributed Systems basics
-💻 Software Engineering Foundations
+Express.js
 
-Data Structures & Algorithms
+.NET (C# environment)
 
-System Design fundamentals
+REST API Development
 
-Clean Architecture principles
+Middleware design
 
-Debugging & testing skills
+JWT Authentication & Authorization
+
+🗄️ Databases
+
+MongoDB
+
+Mongoose
+
+Aggregation pipelines
+
+Schema design
+
+⚙️ Software Engineering Concepts
+
+Distributed Systems Basics
+
+Concurrency
+
+System Design Fundamentals
+
+Clean Architecture
 
 Version Control (Git & GitHub)
 
-🛠️ Tools & Platforms
+🧰 Tools
 
 Postman
 
 VS Code
 
-Linux basics
-
 NPM
 
-.NET (C# environment)
-
-🚀 Featured Skills Animation
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" /> </p>
-
-https://github.com/Lovehiku
-
-🛡️ Tech Philosophy
-
-“Technology becomes meaningful when it benefits people, respects values, and aligns with purpose.” 🌙
-I try to build software that is efficient, ethical, and helpful.
-
-⚽ Outside Tech
-
-Watching football
-
-Exploring new technologies
-
-Learning continuously
-
-📫 Connect With Me
-
-Feel free to reach out for collaboration, ideas, or learning together!
-<!--
-**Lovehiku/Lovehiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linux Basics
