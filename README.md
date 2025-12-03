@@ -25,7 +25,12 @@
 - **TypeScript**  
 - **Go (Golang)**  
 - **C#**  
-- **HTML & CSS**
+- **HTML & CSS** 
+- **Python**
+- **Java**
+- **Flutter**
+- **Kotlin**
+- **React**
 
 ### 🧩 Backend & Frameworks
 - **Node.js & Express.js**  
@@ -34,7 +39,8 @@
 - **Middleware & JWT Authentication**
 
 ### 🗄️ Databases
-- **MongoDB & Mongoose**  
+- **MongoDB & Mongoose**
+- **Mysql**
 - Aggregation pipelines & Schema design  
 
 ### ⚙️ Software Engineering Concepts
@@ -43,7 +49,7 @@
 - Version Control (Git & GitHub)  
 
 ### 🧰 Tools
-- Postman, VS Code, NPM, Linux Basics  
+- Postman, VS Code, NPM, Linux Basics,Docker,RabbitMq,Kubernets
 
 ---
 
@@ -51,20 +57,20 @@
 
 🔥 **Streak Stats**  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovehiku&theme=dark&hide_border=true" />
 </p>
 
 📈 **GitHub Stats**  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lovehiku&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 🧠 **Most Used Languages**  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovehiku&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-*Replace `YOUR_USERNAME` with your GitHub username for animations.*
+*Replace `Lovehiku` with your GitHub username for animations.*
 
 ---
 
@@ -86,7 +92,7 @@ I build with intention, clarity, and responsibility.
 ## 🕌 Contact
 
 If you want collaboration or to build impactful projects, feel free to reach out:  
-- 📧 Email: your-email@example.com  
-- 🐙 GitHub: [Hiku](https://github.com/YOUR_USERNAME)  
-- 🔗 LinkedIn: [Hiku LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- 💬 Telegram: [@YourTelegram](https://t.me/YOUR_TELEGRAM)
+- 📧 Email: lovehiku2@gmail.com
+- 🐙 GitHub: [Hiku](https://github.com/Lovehiku)  
+- 🔗 LinkedIn: [Hiku LinkedIn](https://www.linkedin/in/hikma-oumer/)  
+- 💬 Telegram: [@YourTelegram](https://t.me/Hikmetulahh)
