@@ -89,4 +89,4 @@ If you want collaboration or to build impactful projects, feel free to reach out
 - 📧 Email: lovehiku2@gmail.com
 - 🐙 GitHub: [Hiku](https://github.com/Lovehiku)  
 - 🔗 LinkedIn: [Hiku LinkedIn](https://www.linkedin/in/hikma-oumer/)  
-- 💬 Telegram: [@YourTelegram](https://t.me/Hikmetulahh)
+- 💬 Telegram: [Telegram](https://t.me/Hikmetulahh)
